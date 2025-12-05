@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex03 Places Around Me
 ## Date: 
 
 ## AIM
@@ -24,15 +24,12 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE
-
+## PROGRAM
+```
+INCLUDE YOUR PROGRAM HERE
+```
 
 ## OUTPUT
-
-
-
-
-
 
 
 ## RESULT
